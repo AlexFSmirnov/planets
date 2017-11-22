@@ -1,3 +1,11 @@
+#!/usr/bin/env python3 
+
+"""TODO
+ * Planet tracks.
+ * Better mass and speed constants.
+ * Code beautifying.
+"""
+
 from time import sleep
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
